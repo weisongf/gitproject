@@ -4,3 +4,4 @@ Git is free software very good distributed under the GPL.
 Git has a mutable index called stage.
 Creating a new branch is quick and simple.
 I'm forgot merge feature1 branch.
+I'm forgot another git user.
